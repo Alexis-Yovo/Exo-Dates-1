@@ -21,7 +21,7 @@ def get_euromillions_dates(start_date, end_date):
     return result
 
 # Définir la plage de dates
-start_date = datetime(2025, 1 , 1)  # 01/01/2025
+start_date = datetime(2025, 1, 1)  # 01/01/2025
 end_date = datetime(2029, 12, 31)  # 31/12/2029
 
 # Obtenir les dates
